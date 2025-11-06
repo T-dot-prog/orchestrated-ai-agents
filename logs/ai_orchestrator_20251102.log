@@ -1,0 +1,15 @@
+2025-11-02 15:45:38 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-02 15:45:38 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-02 15:45:38 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-02 15:45:38 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-02 15:45:38 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-02 15:45:38 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-02 15:45:45 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-02 15:45:45 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-02 15:45:45 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-02 15:45:45 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-02 15:45:45 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-02 15:45:45 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-02 15:45:56 - ai_orchestrator - ERROR - Failed to save state for key research_agent:32fd0efd-7922-48a6-b013-4ac9d3e6fc78: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-11-02 15:45:56 - ai_orchestrator - ERROR - Failed to save state for key research_agent:32fd0efd-7922-48a6-b013-4ac9d3e6fc78: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-11-02 15:45:56 - ai_orchestrator - ERROR - Failed to save state for key research_agent:32fd0efd-7922-48a6-b013-4ac9d3e6fc78: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.

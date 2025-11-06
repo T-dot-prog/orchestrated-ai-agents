@@ -1,0 +1,84 @@
+2025-11-04 19:56:28 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 19:56:28 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 19:56:28 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 19:56:28 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 19:56:28 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 19:56:28 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 19:56:46 - ai_orchestrator - ERROR - Failed to save state for key research_agent:22aaa740-3c35-488d-bdf9-9b520a487f49: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-11-04 19:56:46 - ai_orchestrator - ERROR - Failed to save state for key research_agent:22aaa740-3c35-488d-bdf9-9b520a487f49: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-11-04 19:56:46 - ai_orchestrator - ERROR - Failed to save state for key research_agent:22aaa740-3c35-488d-bdf9-9b520a487f49: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-11-04 19:59:22 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 19:59:22 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 19:59:22 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 19:59:22 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 19:59:22 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 19:59:22 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:00:26 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:00:26 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:00:26 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:00:26 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:00:26 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:00:26 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:05:50 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:05:50 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:05:50 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:05:51 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:05:51 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:05:51 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:05:53 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:05:53 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:05:53 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:05:53 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:05:53 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:05:53 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:07:04 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:07:04 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:07:04 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:07:04 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:07:04 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:07:04 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:15:41 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:15:41 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:15:41 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:15:42 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:15:42 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:15:42 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:15:45 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:15:45 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:15:45 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:15:45 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:15:45 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:15:45 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:16:58 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:16:58 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:16:58 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:16:58 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:16:58 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:16:58 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:17:00 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:17:00 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:17:00 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:17:00 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:17:00 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:17:00 - ai_orchestrator - INFO - Initialized research_agent agent with model gemini-2.0-flash
+2025-11-04 20:36:05 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:36:05 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:36:05 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:37:08 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:37:08 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:37:08 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:40:23 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:40:23 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:40:23 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:40:23 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:40:23 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:40:23 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:41:22 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:41:22 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:41:22 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:42:01 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:42:01 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:42:01 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-11-04 20:42:01 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:42:01 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash
+2025-11-04 20:42:01 - ai_orchestrator - INFO - Initialized summarizer_agent agent with model gemini-2.0-flash

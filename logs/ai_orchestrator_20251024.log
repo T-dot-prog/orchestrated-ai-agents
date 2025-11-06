@@ -1,0 +1,168 @@
+2025-10-24 19:00:16 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:00:16 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:00:16 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:00:16 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:00:16 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:00:16 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:04:43 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:04:43 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:04:43 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:04:43 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:04:43 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:04:43 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 1): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 1): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 1): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 2): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 2): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 2): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 3): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 3): unhashable type: 'SystemMessage'
+2025-10-24 19:04:43 - ai_orchestrator - ERROR - LLM call failed (attempt 3): unhashable type: 'SystemMessage'
+2025-10-24 19:06:25 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:06:25 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:06:25 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:06:25 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:06:25 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:06:25 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:07:31 - ai_orchestrator - ERROR - LLM call failed (attempt 1): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:07:31 - ai_orchestrator - ERROR - LLM call failed (attempt 1): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:07:31 - ai_orchestrator - ERROR - LLM call failed (attempt 1): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:08:34 - ai_orchestrator - ERROR - LLM call failed (attempt 2): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:08:34 - ai_orchestrator - ERROR - LLM call failed (attempt 2): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:08:34 - ai_orchestrator - ERROR - LLM call failed (attempt 2): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:09:37 - ai_orchestrator - ERROR - LLM call failed (attempt 3): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:09:37 - ai_orchestrator - ERROR - LLM call failed (attempt 3): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:09:37 - ai_orchestrator - ERROR - LLM call failed (attempt 3): 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent"
+}
+]
+2025-10-24 19:13:37 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:13:37 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:13:37 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:13:37 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:13:37 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:13:37 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:21:14 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:21:14 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:21:14 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:21:15 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:21:15 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:21:15 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:22:08 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:22:08 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:22:08 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:22:09 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:22:09 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:22:09 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:22:54 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:22:54 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:22:54 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:22:54 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:22:54 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:22:54 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:26:13 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:13 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:13 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:26:34 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:28:48 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:28:48 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:28:48 - ai_orchestrator - INFO - Connected to Redis at localhost:6379
+2025-10-24 19:28:48 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:28:48 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash
+2025-10-24 19:28:48 - ai_orchestrator - INFO - Initialized code_agent agent with model gemini-2.0-flash

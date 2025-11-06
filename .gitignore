@@ -1,0 +1,7 @@
+.venv/
+.pytest_cache/
+.vscode/
+.qodo/
+__pycache__/
+ai_orchestrator.egg-info/
+.env
