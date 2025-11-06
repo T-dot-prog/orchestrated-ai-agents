@@ -20,9 +20,9 @@ class TestSummarization():
         return RedisMemory()
     
     @pytest.fixture
-    def summarize_agent(self):
+    def summarize_agent(self, memory_client):
         """Instance of Summarizer agent"""
-        return SummarizerAgent(self.memory_client)
+        return SummarizerAgent(memory_client= memory_client)
     
     @pytest.mark.asyncio
     async def test_execute_function(self, summarize_agent):
@@ -38,9 +38,12 @@ class TestSummarization():
         result = await summarize_agent.execute(input_data)
 
         assert isinstance(result, dict)
-        assert result.get("success") is False
+        assert result.get("success") is True, f"Agent returned success=False. Error: {result.get('error')}"
+        
         assert "data" in result and isinstance(result["data"], dict)
-        assert "error" in result and result.get("error") is None
+        
+        assert "error" in result
+        assert result.get("error") is None, f"Agent returned an error: {result.get('error')}"
 
         data = result["data"]
         assert "summary" in data
