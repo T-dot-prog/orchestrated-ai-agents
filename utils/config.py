@@ -92,6 +92,8 @@ class Settings(BaseSettings):
         "planning_timeout": 120,
         "include_fallbacks": True
     }
+
+    AVAILABLE_AGENTS: list = ['code_agent', "evaluator_agent", "research_agent", "summarize_agent"]
     
     # Model Configuration
     model_config = SettingsConfigDict(
