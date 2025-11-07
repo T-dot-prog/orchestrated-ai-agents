@@ -1,7 +1,7 @@
 """
 Planner Agent for orchestrating workflows and agent collaboration.
 """
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List
 
 from utils.helpers import format_agent_response
 
@@ -95,7 +95,7 @@ class PlannerAgent(BaseAgent):
         plan_response = await self._call_llm(self._create_messages(prompt))
         
         # Structure the plan
-        return self._structure_plan(plan_response, task)
+        return self._structure_plan(plan_response, task= task)
 
     def _create_planning_prompt(
         self,

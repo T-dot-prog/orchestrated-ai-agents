@@ -2,8 +2,6 @@
 AI Agent Orchestration System
 Main entry point for the application.
 """
-import asyncio
-import logging
 import os
 
 import uvicorn
